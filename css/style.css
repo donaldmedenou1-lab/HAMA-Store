@@ -10,7 +10,7 @@ footer{background:#061225;color:#91a7c3;padding:25px 0}.footer-grid{display:flex
 @media(max-width:850px){nav{display:none}.menu{display:block}.hero{padding:60px 0}.hero-grid,.contact-grid,.about-grid{grid-template-columns:1fr}.hero-card{height:430px}.section-head{display:block}.products,.service-grid{grid-template-columns:repeat(2,1fr)}.about-mark{height:180px}.footer-grid{flex-direction:column}.hero h1{letter-spacing:-2px}}
 @media(max-width:560px){.products,.service-grid{grid-template-columns:1fr}.trust{gap:15px;flex-wrap:wrap}.section{padding:70px 0}.section h2,.contact h2,.about h2{font-size:34px}.phone-one{right:30px}.phone-two{left:30px}}
 
-/* LOGO : remplace img/logo-hama.svg par ton vrai logo plus tard. */
+/* LOGO : remplace /logo-hama.svg par ton vrai logo plus tard. */
 .logo-image{display:flex;align-items:center}
 .logo-image img{display:block;width:170px;height:auto;max-height:48px;object-fit:contain}
 footer .logo-image img{width:160px;filter:none}
